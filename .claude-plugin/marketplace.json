@@ -1,0 +1,11 @@
+{
+  "name": "cosmic-forge",
+  "owner": { "name": "Vedant Bhayani" },
+  "plugins": [
+    {
+      "name": "cosmic-forge",
+      "source": "./",
+      "description": "Cinematic photoreal 3D/WebGL websites with scroll camera journeys, studio UI/UX, instant load and perfect mobile."
+    }
+  ]
+}

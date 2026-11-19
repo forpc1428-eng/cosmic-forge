@@ -1,0 +1,9 @@
+{
+  "name": "cosmic-forge",
+  "version": "1.0.0",
+  "description": "Cinematic photoreal 3D/WebGL websites: black holes, galaxies, planets, scroll camera journeys, studio UI/UX, instant load, perfect mobile. Default build: the Event Horizon black-hole portfolio.",
+  "author": { "name": "Vedant Bhayani" },
+  "homepage": "https://github.com/forpc1428-eng/cosmic-forge",
+  "license": "MIT",
+  "keywords": ["webgl", "threejs", "3d", "black-hole", "galaxy", "scroll-animation", "ui-ux", "portfolio"]
+}

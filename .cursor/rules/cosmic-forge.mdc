@@ -1,0 +1,8 @@
+---
+description: Cinematic 3D / WebGL / Three.js website building — use Cosmic Forge skills and template
+alwaysApply: true
+---
+Follow `AGENTS.md`. Before writing code for any 3D, WebGL, Three.js, shader, scroll-animation or
+immersive website, read `skills/cosmic-forge/SKILL.md` and the skills it routes to. Start from
+`templates/event-horizon/`. Default concept: the Event Horizon black-hole portfolio. Finish with
+`skills/quality-gate/SKILL.md`.
